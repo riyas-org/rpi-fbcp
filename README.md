@@ -12,3 +12,8 @@ Build
     $ cmake ..
     
     $ make 
+
+Directly use the Binary
+=======================
+
+Copy to the fat32 portion ie /boot/ directory and then copy it to usr/local/bin via ssh
